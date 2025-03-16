@@ -53,8 +53,9 @@
    ```
 
 6. **Login Admin (Default Credentials)**  
-   - Email: `admin@example.com`  
-   - Password: `password`  
+   - Email: `admin@gmail.com`  
+   - Password: `admin123`
+
 
 ## 📸 Tampilan Aplikasi  
 🚀 [Tambahkan Screenshot di Sini]  
