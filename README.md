@@ -15,7 +15,7 @@
 ## 🛠️ Teknologi yang Digunakan  
 - **Laravel 10** – Framework PHP yang powerful  
 - **MySQL** – Database untuk menyimpan data transaksi dan pengguna  
-- **Bootstrap & Tailwind CSS** – UI yang responsif dan modern  
+- **Bootstrap** – UI yang responsif dan modern  
 - **Larapex Charts** – Visualisasi data transaksi  
 - **Spatie Laravel Permission** – Manajemen hak akses pengguna  
 
