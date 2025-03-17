@@ -23,7 +23,7 @@
 
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/Wahyu-lorem/Laravel-10-Laundry-Management.git
+   git clone https://github.com/Wahyuprtmaaa/Laravel-10-Laundry-Management.git
    cd Laravel-10-Laundry-Management
    ```
 
